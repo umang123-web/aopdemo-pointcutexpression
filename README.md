@@ -1,1 +1,1 @@
-My Spring AOP Application.
+Spring AOP Application.
